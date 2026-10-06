@@ -1,0 +1,1 @@
+# Sin dependencias externas: analisis.py usa solo la biblioteca estándar de Python (>= 3.8).
