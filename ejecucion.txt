@@ -1,0 +1,19 @@
+Registros: 100000
+Sensores distintos: 40
+
+Temperatura promedio por planta:
+  Planta_1: 66.62 °C
+  Planta_2: 66.53 °C
+  Planta_3: 66.77 °C
+  Planta_4: 66.67 °C
+
+Temperatura máxima: 104.99 °C
+  sensor S023 | 01/09/26 22:23 | planta Planta_3
+  sensor S019 | 02/09/26 13:11 | planta Planta_2
+  sensor S014 | 02/09/26 15:23 | planta Planta_2
+  sensor S030 | 02/09/26 16:02 | planta Planta_3
+
+Lecturas con temperatura > 85 °C: 6954
+Planta(s) con más alertas (1777): Planta_3
+
+Alertas exportadas a resultados/alertas.csv
