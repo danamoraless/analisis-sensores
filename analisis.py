@@ -11,7 +11,7 @@ from pathlib import Path
 
 UMBRAL_C = 85.0
 BASE = Path(__file__).resolve().parent
-RUTA_CSV = BASE / "sensores_industriales.csv"
+RUTA_CSV = BASE / "data" / "sensores_industriales.csv"
 RUTA_ALERTAS = BASE / "resultados" / "alertas.csv"
 
 
